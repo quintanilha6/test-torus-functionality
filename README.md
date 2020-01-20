@@ -1,3 +1,9 @@
 # Test torus functionalities
 
-Repo to hold functionality tests against Torus authentication process
+React app for testing front end libs and tools
+- Torus
+
+```sh
+$ npm install
+$ npm start
+```
